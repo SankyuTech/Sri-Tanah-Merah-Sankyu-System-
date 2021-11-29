@@ -3072,7 +3072,7 @@ Case 2 'Urusan Kedai
 
 Case 3 'Report
     
-    If MDI_frm1.L4_Text = "Admin" Or MDI_frm1.L4_Text = "HQ" Or MDI_frm1.L4_Text = "Developer" Then
+    If MDI_frm1.L4_Text = "Admin" Or MDI_frm1.L4_Text = "HQ" Or MDI_frm1.L4_Text = "Developer" Or G_MENU_ADMIN = "YES" Then
     
         Call MDI_frm1_unload_sub_menu
         

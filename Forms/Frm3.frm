@@ -582,7 +582,7 @@ If USER_FOUND = 1 Then
     
     End If
 bypass_dev:
-    MDI_frm1.Caption = "[Sistem Pengurusan Kedai Emas (Sankyu System)] SPKE106.1.21"
+    MDI_frm1.Caption = "[Sistem Pengurusan Kedai Emas (Sankyu System)] SPKE106.1.22"
     MDI_frm1.L4_Text = "Staff"
     MDI_frm1.Show
 

@@ -27,3 +27,4 @@ C:\xampp\spke_ne\SPKE_NE_401.exe
 OFFLINE
 NO
 YES
+YES

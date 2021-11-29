@@ -103,6 +103,7 @@ Public G_TRAY_X
 Public G_JENIS_JUALAN
 Public G_AUTO_INSERT
 Public G_CALC_AUTO
+Public G_MENU_ADMIN
 
 Public G_L1_LEFT
 Public G_L1_TOP
@@ -489,6 +490,7 @@ Line Input #1, G_SPKE_NE_PATH
 Line Input #1, G_SYSTEM_TYPE
 Line Input #1, G_GDN_SUBSCRIBE
 Line Input #1, G_AUTO_INSERT
+Line Input #1, G_MENU_ADMIN
 
 Close #1
 
